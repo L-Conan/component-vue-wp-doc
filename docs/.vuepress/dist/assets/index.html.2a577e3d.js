@@ -1,0 +1,1 @@
+const t={key:"v-7dc6020a",path:"/component/Basic/Icon/",title:"Icon\u7EC4\u4EF6",lang:"zh-CN",frontmatter:{title:"Icon\u7EC4\u4EF6",description:"\u8FD9\u65F6\u4E00\u4E2AIcon\u7EC4\u4EF6"},excerpt:"",headers:[],git:{},filePathRelative:"component/Basic/Icon/index.md"};export{t as data};

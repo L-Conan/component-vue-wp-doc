@@ -1,0 +1,1 @@
+const t={key:"v-952a5aea",path:"/component/",title:"\u8FD9\u53EA\u5168\u90E8\u7EC4\u4EF6\u96C6\u5408",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{},filePathRelative:"component/README.md"};export{t as data};

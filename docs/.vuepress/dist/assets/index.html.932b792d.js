@@ -1,0 +1,1 @@
+import{_ as e,o,c as t,a as c,b as a}from"./app.475203b1.js";const n={},s={id:"hello-icon\u7EC4\u4EF6",tabindex:"-1"},_=c("a",{class:"header-anchor",href:"#hello-icon\u7EC4\u4EF6","aria-hidden":"true"},"#",-1),r=a(" Hello Icon\u7EC4\u4EF6"),d=[_,r];function i(h,l){return o(),t("h1",s,d)}var x=e(n,[["render",i],["__file","index.html.vue"]]);export{x as default};

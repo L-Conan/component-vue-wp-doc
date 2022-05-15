@@ -1,0 +1,1 @@
+const t={key:"v-0b296a06",path:"/component/Form/Button/",title:"\u6309\u94AE\u7EC4\u4EF6",lang:"zh-CN",frontmatter:{lang:"zh-CN",title:"\u6309\u94AE\u7EC4\u4EF6",description:"\u8FD9\u65F6\u4E00\u4E2A\u6309\u94AE\u7EC4\u4EF6"},excerpt:"",headers:[],git:{},filePathRelative:"component/Form/Button/index.md"};export{t as data};
