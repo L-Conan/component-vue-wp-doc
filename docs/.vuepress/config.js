@@ -9,6 +9,7 @@ module.exports = {
     lang: 'zh-CN',
     title: '跨境前端组件使用文档',
     description: '这是我的第一个 VuePress 站点',
+    base: "/component-vue-wp-doc/",
     theme: defaultTheme({
         // 菜单栏左边logo
         logo: 'https://vuejs.org/images/logo.png',
